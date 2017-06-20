@@ -100,6 +100,11 @@
     "dist",
     "docs"
   ],
+  "greenkeeper": {
+    "ignore": [
+      "eslint"
+    ]
+  },
   "homepage": "https://sonarwhal.com/",
   "keywords": [
     "a11y",
